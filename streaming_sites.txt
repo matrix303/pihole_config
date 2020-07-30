@@ -1,0 +1,12 @@
+.*123.*
+.*watchs.*
+(^|\.)www1\.watchserieshd\.tv$	
+.*watchseries.(
+.*yesmov.*
+(^|\.)yesmovie$	
+.*apne.*
+.*locker.*
+.*movie.*
+.*popcorn.*
+.*watchtvseries.*
+.*tinyzone.*
